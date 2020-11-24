@@ -2,7 +2,7 @@
 
 Identify cracks on concrete surface
 
-![images](Cracks_NoCracks1.png)
+![](images/Cracks_NoCracks1.png)
 
 ## Data
 
